@@ -19,7 +19,7 @@
 + Go into the heart haven folder
 + Run `pip install -r requirements.txt` 
 + Run `streamlit run app.py` 
-+ Run **streamlit run app.py
++ Run **streamlit run app.py**
 
 #### Tech Stack
 + Streamlit
