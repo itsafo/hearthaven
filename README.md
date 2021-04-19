@@ -15,7 +15,7 @@
 
 
 #### Run locally on command prompt
-+ Run this command 'git clone `https://github.com/itsafo/hearthaven.git`
++ Run this command `git clone https://github.com/itsafo/hearthaven.git`
 + Go into the heart haven folder
 + Run `pip install -r requirements.txt` 
 + Run `streamlit run app.py`
