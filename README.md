@@ -1,6 +1,6 @@
 ### Data Science Project
 ### Machine Learning Web App with Streamlit
-[Heart Disease Prediction App](https://hearthaven.herokuapp.com){:target="_blank"}
+[Heart Disease Prediction App](https://hearthaven.herokuapp.com)
 
 
 #### Purpose
