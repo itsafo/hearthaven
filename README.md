@@ -1,6 +1,6 @@
 ### Data Science Project
 ### Machine Learning Web App with Streamlit
-[Heart Disease Prediction App](https://hearthaven.herokuapp.com)
+**[Heart Disease Prediction App](https://hearthaven.herokuapp.com)**
 
 
 #### Purpose
@@ -18,8 +18,7 @@
 + Run this command 'git clone `https://github.com/itsafo/hearthaven.git`
 + Go into the heart haven folder
 + Run `pip install -r requirements.txt` 
-+ Run `streamlit run app.py` 
-+ Run **streamlit run app.py**
++ Run `streamlit run app.py`
 
 #### Tech Stack
 + Streamlit
