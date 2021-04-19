@@ -1,5 +1,7 @@
 ### Data Science Project
 ### Machine Learning Web App with Streamlit
+[Heart Disease Prediction App](https://hearthaven.herokuapp.com)
+
 
 #### Purpose
 + A productionized ML web app for hepatitis mortality prediction
@@ -37,5 +39,5 @@
 
 
 #### Ref
-
+<a href="https://hearthaven.herokuapp.com" target="_blank">Heart Disease Prediction App</a>
 
