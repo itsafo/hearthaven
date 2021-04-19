@@ -17,6 +17,11 @@
 + Go into the heart haven folder
 + Run 'streamlit run app.py' 
 
+#### Tech Stack
++ Streamlit
++ Python
++ Heroku
+
 #### Screenshot
 ![](images/ml_streamlit_app01.png)
 
@@ -31,5 +36,6 @@
 
 
 
-#### .
+#### Ref
+
 
