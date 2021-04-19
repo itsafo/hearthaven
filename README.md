@@ -12,6 +12,10 @@
 + Numpy
 
 
+#### Run locally on command prompt
++ Run this command 'git clone https://github.com/itsafo/hearthaven.git'
++ Go into the heart haven folder
++ Run 'streamlit run app.py' 
 
 #### Screenshot
 ![](images/ml_streamlit_app01.png)
